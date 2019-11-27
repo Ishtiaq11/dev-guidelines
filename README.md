@@ -1,4 +1,4 @@
-# dev-guidelines
+# Dev-References
 Reference of guidelines and solutions of problems in software development
 
 ## Table of contents
