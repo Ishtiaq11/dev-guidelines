@@ -8,5 +8,6 @@ Reference of guidelines and solutions of problems in software development
         1. [Changing author info of all commits](https://help.github.com/en/github/using-git/changing-author-info)
     3. [Force “git pull” to overwrite local files](https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files)
     4. [Delete a git branch locally and remotely](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)
+    5. [File add in .gitignore but still in the modified list](https://stackoverflow.com/questions/7066734/sqlite3-file-add-in-gitignore-but-still-in-the-modified-list)
 2. [Django](#django)
     1. [Django revert last migration](https://stackoverflow.com/questions/32123477/django-revert-last-migration)
