@@ -10,5 +10,6 @@ Reference of guidelines and solutions of problems in software development
     4. [Delete a git branch locally and remotely](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)
     5. [File add in .gitignore but still in the modified list](https://stackoverflow.com/questions/7066734/sqlite3-file-add-in-gitignore-but-still-in-the-modified-list)
     6. [Avoid specification of username and password at every git push](https://stackoverflow.com/questions/8588768/how-do-i-avoid-the-specification-of-the-username-and-password-at-every-git-push)
+    7. [Cache GitHub credentials for pushing commits](https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-github-credentials-for-pushing-commits)
 2. [Django](#django)
     1. [Django revert last migration](https://stackoverflow.com/questions/32123477/django-revert-last-migration)
