@@ -15,3 +15,5 @@ Reference of guidelines and solutions of problems in software development
     1. [Revert last migration](https://stackoverflow.com/questions/32123477/django-revert-last-migration)
 3. [VIM](#vim)
     1. [Delete all lines](https://www.folkstalk.com/2012/06/delete-all-lines-in-vi-vim-editor-unix.html)
+4. [VISUAL STUDIO CODE](#vscode)
+    1. [Insufficient permissions in vscode](https://stackoverflow.com/questions/51674627/insufficient-permissions-in-vscode)
