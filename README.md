@@ -11,6 +11,7 @@ Reference of guidelines and solutions of problems in software development
     5. [File in .gitignore but still in modified list](https://stackoverflow.com/questions/7066734/sqlite3-file-add-in-gitignore-but-still-in-the-modified-list)
     6. [Avoid username and password at every git push](https://stackoverflow.com/questions/8588768/how-do-i-avoid-the-specification-of-the-username-and-password-at-every-git-push)
     7. [Cache GitHub credentials to push commits](https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-github-credentials-for-pushing-commits)
+    8. [Delete all git stashes at once](https://stackoverflow.com/questions/11369375/how-can-i-delete-all-of-my-git-stashes-at-once/11369406)
 2. [Django](#django)
     1. [Revert last migration](https://stackoverflow.com/questions/32123477/django-revert-last-migration)
 3. [VIM](#vim)
