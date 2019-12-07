@@ -12,6 +12,7 @@ Reference of guidelines and solutions of problems in software development
     6. [Avoid username and password at every git push](https://stackoverflow.com/questions/8588768/how-do-i-avoid-the-specification-of-the-username-and-password-at-every-git-push)
     7. [Cache GitHub credentials to push commits](https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-github-credentials-for-pushing-commits)
     8. [Delete all git stashes at once](https://stackoverflow.com/questions/11369375/how-can-i-delete-all-of-my-git-stashes-at-once/11369406)
+    9. [Delete local remote branches that aren't really in remote](https://stackoverflow.com/questions/35941566/git-says-remote-ref-does-not-exist-when-i-delete-remote-branch)
 2. [Django](#django)
     1. [Revert last migration](https://stackoverflow.com/questions/32123477/django-revert-last-migration)
 3. [VIM](#vim)
